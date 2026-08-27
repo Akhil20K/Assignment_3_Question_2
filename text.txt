@@ -18,14 +18,4 @@ akhil      console                         Sun Aug 16 23:14 - 23:16  (00:01)
 reboot time                                Sun Aug 16 23:13
 Number of unique Users who logged-in: 
        7
-Most recent logins: 
-akhil      console                         Mon Aug 17 11:34   still logged in
-reboot time                                Mon Aug 17 11:33
-akhil      console                         Mon Aug 17 10:06 - 10:51  (00:44)
-reboot time                                Mon Aug 17 10:05
-shutdown time                              Sun Aug 16 23:21
-akhil      console                         Sun Aug 16 23:19 - 23:21  (00:01)
-reboot time                                Sun Aug 16 23:19
-shutdown time                              Sun Aug 16 23:16
-akhil      console                         Sun Aug 16 23:14 - 23:16  (00:01)
-reboot time                                Sun Aug 16 23:13
+                             Sun Aug 16 23:13
